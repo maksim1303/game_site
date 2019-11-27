@@ -1,0 +1,54 @@
+.size{
+  width:20%;
+  height:30%;
+}
+.p2{
+  position:relative;
+  top:10%;
+  left:15%;
+}
+.p{
+  position:relative;
+  top:20%;
+  left:15%;
+}
+.logo{
+  position: absolute;
+  top: 8px;
+  width:25%;
+}
+.line{
+  border: none;
+  background-color: lightblue;
+  height: 7%;
+  position: absolute;
+  top: 0px;
+  width:100%;
+}
+.menu {
+background:#ffa500;
+position:relative;
+top:5%;
+padding:10px;
+}
+.menu  li{
+list-style-type:none;
+display:inline;
+}
+li{
+  list-style-type:none;
+  display:inline;
+}
+.menu li a{
+text-decoration:none;
+background:#ffa500;
+color:#ffffff;
+padding:10px;
+}
+
+.menu li a:hover{
+padding:20px;
+}
+h1,h2{
+text-align:center;
+}
